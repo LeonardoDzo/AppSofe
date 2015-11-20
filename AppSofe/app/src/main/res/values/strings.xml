@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppSofe</string>
+    <string-array name="entrada">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+</resources>
